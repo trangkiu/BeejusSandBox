@@ -1,10 +1,15 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-int main(int args, char *argv[]) {
-    printf("Hello, World!\n");
+int square(int x) {
+    return x * x;
+}
 
-    printf("%d\n" , 27 + 42);
 
-    printf("%d\n" , args - 1);
+int main(int argc, char** argv) {
+    printf("Size of char: %lu\n", sizeof(char));
+    printf("Size of int: %lu\n", sizeof(int));
+    printf("Size of size_t: %lu\n", sizeof(size_t));
+    return 0;
 
 }
