@@ -26,9 +26,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cada19e-f98c-4792-a856-fc9156c76f5f" name="Changes" comment="assignment 1">
-      <change afterPath="$PROJECT_DIR$/Module/Module2.c" afterDir="false" />
+    <list default="true" id="3cada19e-f98c-4792-a856-fc9156c76f5f" name="Changes" comment="assignment 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/Module2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Module/Module2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,39 +74,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.Project.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.main.c.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Beejus.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;pc-branch&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Module2.c.executor": "Run",
+    "C/C++ File.Project.c.executor": "Run",
+    "C/C++ File.main.c.executor": "Run",
+    "CMake Application.Beejus.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "pc-branch",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Desktop\Georgia Tech\Seminar - C Programming\Code\Beejus\Module" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.Project.c">
+  <component name="RunManager" selected="C/C++ File.main.c">
     <configuration name="Beejus" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Beejus" TARGET_NAME="Beejus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Beejus" RUN_TARGET_NAME="Beejus">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Module2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Beejus" TARGET_NAME="Module2.c" CONFIG_NAME="Module2.c">
+      <option name="sourceFile" value="Module\Module2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="Project.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Beejus" TARGET_NAME="Project.c" CONFIG_NAME="Project.c">
@@ -123,9 +130,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.main.c" />
+        <item itemvalue="C/C++ File.Module2.c" />
         <item itemvalue="C/C++ File.Project.c" />
         <item itemvalue="CMake Application.Beejus" />
-        <item itemvalue="C/C++ File.main.c" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +151,10 @@
       <workItem from="1747885573634" duration="2807000" />
       <workItem from="1748135968197" duration="3000" />
       <workItem from="1748402132840" duration="9649000" />
-      <workItem from="1748675027722" duration="3000" />
+      <workItem from="1748675027722" duration="25000" />
+      <workItem from="1748837994976" duration="1918000" />
+      <workItem from="1749180494494" duration="5110000" />
+      <workItem from="1749440029500" duration="6808000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -169,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747888229841</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="assignment 2">
+      <option name="closed" value="true" />
+      <created>1748675044642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748675044642</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +202,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="assignment 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment 1" />
+    <MESSAGE value="assignment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

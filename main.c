@@ -7,9 +7,14 @@ int square(int x) {
 
 
 int main(int argc, char** argv) {
-    printf("Size of char: %lu\n", sizeof(char));
-    printf("Size of int: %lu\n", sizeof(int));
-    printf("Size of size_t: %lu\n", sizeof(size_t));
+    signed int i = 1;
+    // while (i > 0) {
+    //     i++;
+    //     printf("i %d", i);
+    // }
+    // printf("i %d", i);
+    printf("i %d",  sizeof(int));
+
     return 0;
 
 }
